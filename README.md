@@ -121,6 +121,7 @@ Clasificacion:
 
 Si el programa falla: **error violacion de segmento* se están leyendo más datos que el tamaño del array
 Solución: limitar la lectura de datos con while (i < 100 && archivo >> ...)
+
 ---
 
 ## 10. Problemas comunes
